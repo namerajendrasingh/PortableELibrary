@@ -1,0 +1,427 @@
+2026-01-11 14:52:46.059 IST [38252] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 14:52:46.065 IST [38252] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 14:52:46.065 IST [38252] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 14:52:46.124 IST [33124] LOG:  database system was shut down at 2026-01-11 14:52:45 IST
+2026-01-11 14:52:46.159 IST [38252] LOG:  database system is ready to accept connections
+2026-01-11 14:52:52.900 IST [44068] FATAL:  role "Raj Singh" does not exist
+2026-01-11 14:52:53.753 IST [38252] LOG:  received fast shutdown request
+2026-01-11 14:52:53.756 IST [38252] LOG:  aborting any active transactions
+2026-01-11 14:52:53.771 IST [38252] LOG:  background worker "logical replication launcher" (PID 17008) exited with exit code 1
+2026-01-11 14:52:53.775 IST [37820] LOG:  shutting down
+2026-01-11 14:52:53.777 IST [37820] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 14:52:54.147 IST [37820] LOG:  checkpoint complete: wrote 968 buffers (5.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.114 s, sync=0.250 s, total=0.373 s; sync files=301, longest=0.004 s, average=0.001 s; distance=4561 kB, estimate=4561 kB; lsn=0/19EC3A8, redo lsn=0/19EC3A8
+2026-01-11 14:52:54.324 IST [38252] LOG:  database system is shut down
+2026-01-11 14:55:00.406 IST [17564] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 14:55:00.414 IST [17564] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 14:55:00.415 IST [17564] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 14:55:00.486 IST [31520] LOG:  database system was shut down at 2026-01-11 14:55:00 IST
+2026-01-11 14:55:00.534 IST [17564] LOG:  database system is ready to accept connections
+2026-01-11 14:55:06.294 IST [41124] FATAL:  role "Raj Singh" does not exist
+2026-01-11 14:55:06.844 IST [17564] LOG:  received fast shutdown request
+2026-01-11 14:55:06.847 IST [17564] LOG:  aborting any active transactions
+2026-01-11 14:55:06.863 IST [17564] LOG:  background worker "logical replication launcher" (PID 36848) exited with exit code 1
+2026-01-11 14:55:06.865 IST [42028] LOG:  shutting down
+2026-01-11 14:55:06.868 IST [42028] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 14:55:07.325 IST [42028] LOG:  checkpoint complete: wrote 968 buffers (5.9%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.222 s, sync=0.224 s, total=0.460 s; sync files=301, longest=0.003 s, average=0.001 s; distance=4561 kB, estimate=4561 kB; lsn=0/19EC3A8, redo lsn=0/19EC3A8
+2026-01-11 14:55:07.371 IST [17564] LOG:  database system is shut down
+2026-01-11 14:57:07.634 IST [2808] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 14:57:07.639 IST [2808] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 14:57:07.640 IST [2808] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 14:57:07.701 IST [49016] LOG:  database system was shut down at 2026-01-11 14:57:07 IST
+2026-01-11 14:57:07.739 IST [2808] LOG:  database system is ready to accept connections
+2026-01-11 14:57:13.225 IST [14672] FATAL:  role "Raj Singh" does not exist
+2026-01-11 14:57:13.762 IST [888] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 14:57:13.762 IST [888] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 14:57:14.327 IST [2808] LOG:  received fast shutdown request
+2026-01-11 14:57:14.329 IST [2808] LOG:  aborting any active transactions
+2026-01-11 14:57:14.343 IST [2808] LOG:  background worker "logical replication launcher" (PID 45992) exited with exit code 1
+2026-01-11 14:57:14.345 IST [34028] LOG:  shutting down
+2026-01-11 14:57:14.347 IST [34028] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 14:57:14.827 IST [34028] LOG:  checkpoint complete: wrote 993 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.219 s, sync=0.255 s, total=0.482 s; sync files=324, longest=0.008 s, average=0.001 s; distance=4714 kB, estimate=4714 kB; lsn=0/1A12870, redo lsn=0/1A12870
+2026-01-11 14:57:14.900 IST [2808] LOG:  database system is shut down
+2026-01-11 14:57:37.977 IST [20928] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 14:57:37.984 IST [20928] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 14:57:37.984 IST [20928] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 14:57:38.057 IST [40280] LOG:  database system was shut down at 2026-01-11 14:57:37 IST
+2026-01-11 14:57:38.100 IST [20928] LOG:  database system is ready to accept connections
+2026-01-11 14:57:44.292 IST [30996] FATAL:  role "Raj Singh" does not exist
+2026-01-11 14:57:44.848 IST [8700] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 14:57:44.848 IST [8700] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 14:57:45.487 IST [20928] LOG:  received fast shutdown request
+2026-01-11 14:57:45.491 IST [20928] LOG:  aborting any active transactions
+2026-01-11 14:57:45.508 IST [20928] LOG:  background worker "logical replication launcher" (PID 31736) exited with exit code 1
+2026-01-11 14:57:45.509 IST [31984] LOG:  shutting down
+2026-01-11 14:57:45.512 IST [31984] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 14:57:46.017 IST [31984] LOG:  checkpoint complete: wrote 993 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.236 s, sync=0.260 s, total=0.508 s; sync files=324, longest=0.008 s, average=0.001 s; distance=4714 kB, estimate=4714 kB; lsn=0/1A12870, redo lsn=0/1A12870
+2026-01-11 14:57:46.150 IST [20928] LOG:  database system is shut down
+2026-01-11 15:00:49.651 IST [49896] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:00:49.657 IST [49896] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:00:49.657 IST [49896] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:00:49.711 IST [46568] LOG:  database system was shut down at 2026-01-11 15:00:49 IST
+2026-01-11 15:00:49.755 IST [49896] LOG:  database system is ready to accept connections
+2026-01-11 15:00:55.309 IST [18660] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:00:55.764 IST [7280] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 15:00:55.764 IST [7280] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 15:01:38.620 IST [49896] LOG:  received fast shutdown request
+2026-01-11 15:01:38.623 IST [49896] LOG:  aborting any active transactions
+2026-01-11 15:01:38.639 IST [49896] LOG:  background worker "logical replication launcher" (PID 45112) exited with exit code 1
+2026-01-11 15:01:38.641 IST [10140] LOG:  shutting down
+2026-01-11 15:01:38.644 IST [10140] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:01:39.197 IST [10140] LOG:  checkpoint complete: wrote 993 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.279 s, sync=0.264 s, total=0.557 s; sync files=324, longest=0.008 s, average=0.001 s; distance=4714 kB, estimate=4714 kB; lsn=0/1A128A8, redo lsn=0/1A128A8
+2026-01-11 15:01:39.393 IST [49896] LOG:  database system is shut down
+2026-01-11 15:02:09.079 IST [27032] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:02:09.085 IST [27032] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:02:09.085 IST [27032] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:02:09.153 IST [22776] LOG:  database system was shut down at 2026-01-11 15:02:08 IST
+2026-01-11 15:02:09.192 IST [27032] LOG:  database system is ready to accept connections
+2026-01-11 15:02:15.290 IST [22448] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:02:15.820 IST [27448] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 15:02:15.820 IST [27448] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 15:02:50.901 IST [27032] LOG:  received fast shutdown request
+2026-01-11 15:02:50.903 IST [27032] LOG:  aborting any active transactions
+2026-01-11 15:02:50.919 IST [27032] LOG:  background worker "logical replication launcher" (PID 7308) exited with exit code 1
+2026-01-11 15:02:50.923 IST [29512] LOG:  shutting down
+2026-01-11 15:02:50.926 IST [29512] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:02:51.434 IST [29512] LOG:  checkpoint complete: wrote 993 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.238 s, sync=0.260 s, total=0.511 s; sync files=324, longest=0.008 s, average=0.001 s; distance=4714 kB, estimate=4714 kB; lsn=0/1A128A8, redo lsn=0/1A128A8
+2026-01-11 15:02:51.620 IST [27032] LOG:  database system is shut down
+2026-01-11 15:04:12.240 IST [22564] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:04:12.246 IST [22564] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:04:12.246 IST [22564] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:04:12.302 IST [3216] LOG:  database system was shut down at 2026-01-11 15:04:11 IST
+2026-01-11 15:04:12.338 IST [22564] LOG:  database system is ready to accept connections
+2026-01-11 15:04:18.227 IST [4936] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:04:18.662 IST [27228] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 15:04:18.662 IST [27228] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 15:05:42.615 IST [47720] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.615 IST [11168] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.616 IST [43408] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.617 IST [20044] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.618 IST [50408] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.619 IST [14772] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.619 IST [13180] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.619 IST [39752] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [29144] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [26112] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [30772] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [27364] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [49372] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.620 IST [3756] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.621 IST [15568] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.621 IST [29808] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.621 IST [24560] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:05:42.686 IST [22564] LOG:  received fast shutdown request
+2026-01-11 15:05:42.687 IST [22564] LOG:  aborting any active transactions
+2026-01-11 15:05:42.702 IST [22564] LOG:  background worker "logical replication launcher" (PID 40252) exited with exit code 1
+2026-01-11 15:05:42.705 IST [47624] LOG:  shutting down
+2026-01-11 15:05:42.708 IST [47624] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:05:43.235 IST [47624] LOG:  checkpoint complete: wrote 994 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.246 s, sync=0.270 s, total=0.530 s; sync files=324, longest=0.008 s, average=0.001 s; distance=4718 kB, estimate=4718 kB; lsn=0/1A136A8, redo lsn=0/1A136A8
+2026-01-11 15:05:43.302 IST [22564] LOG:  database system is shut down
+2026-01-11 15:09:33.070 IST [40192] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:09:33.077 IST [40192] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:09:33.077 IST [40192] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:09:33.136 IST [38844] LOG:  database system was shut down at 2026-01-11 15:09:32 IST
+2026-01-11 15:09:33.179 IST [40192] LOG:  database system is ready to accept connections
+2026-01-11 15:09:39.292 IST [39840] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:09:39.889 IST [33444] ERROR:  unrecognized configuration parameter "transaction_timeout"
+2026-01-11 15:09:39.889 IST [33444] STATEMENT:  SET transaction_timeout = 0;
+2026-01-11 15:10:50.050 IST [17784] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.052 IST [4032] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.052 IST [31436] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.052 IST [42520] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [37512] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [6028] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [9788] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [18096] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [10840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [31660] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [8408] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.053 IST [36952] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.054 IST [19004] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.054 IST [6716] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.054 IST [44548] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.054 IST [49764] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.055 IST [17968] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:10:50.119 IST [40192] LOG:  received fast shutdown request
+2026-01-11 15:10:50.120 IST [40192] LOG:  aborting any active transactions
+2026-01-11 15:10:50.133 IST [40192] LOG:  background worker "logical replication launcher" (PID 22588) exited with exit code 1
+2026-01-11 15:10:50.135 IST [37752] LOG:  shutting down
+2026-01-11 15:10:50.136 IST [37752] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:10:50.659 IST [37752] LOG:  checkpoint complete: wrote 993 buffers (6.1%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.234 s, sync=0.280 s, total=0.525 s; sync files=324, longest=0.003 s, average=0.001 s; distance=4714 kB, estimate=4714 kB; lsn=0/1A128A8, redo lsn=0/1A128A8
+2026-01-11 15:10:50.811 IST [40192] LOG:  database system is shut down
+2026-01-11 15:24:27.704 IST [28724] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:24:27.710 IST [28724] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:24:27.710 IST [28724] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:24:27.771 IST [48056] LOG:  database system was shut down at 2026-01-11 15:10:50 IST
+2026-01-11 15:24:27.813 IST [28724] LOG:  database system is ready to accept connections
+2026-01-11 15:29:27.768 IST [32424] LOG:  checkpoint starting: time
+2026-01-11 15:29:33.879 IST [32424] LOG:  checkpoint complete: wrote 59 buffers (0.4%); 0 WAL file(s) added, 0 removed, 0 recycled; write=6.057 s, sync=0.030 s, total=6.112 s; sync files=20, longest=0.008 s, average=0.002 s; distance=287 kB, estimate=287 kB; lsn=0/1A5A588, redo lsn=0/1A5A550
+2026-01-11 15:34:12.972 IST [32068] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.972 IST [11464] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.972 IST [24216] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.973 IST [31688] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.974 IST [32508] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.975 IST [24380] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [14824] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [26896] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [51396] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [25492] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [9616] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [47264] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.976 IST [9860] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.977 IST [11960] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.977 IST [50144] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.977 IST [12500] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:12.977 IST [34948] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:34:13.165 IST [13396] ERROR:  database "elibrary" already exists
+2026-01-11 15:34:13.165 IST [13396] STATEMENT:  CREATE DATABASE elibrary;
+2026-01-11 15:34:22.642 IST [28724] LOG:  background worker "logical replication launcher" (PID 42760) was terminated by exception 0xC000013A
+2026-01-11 15:34:22.642 IST [28724] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-11 15:34:22.642 IST [28724] LOG:  terminating any other active server processes
+2026-01-11 15:34:22.658 IST [28724] LOG:  received fast shutdown request
+^C2026-01-11 15:34:34.469 IST [16660] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:34:34.478 IST [16660] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:34:34.478 IST [16660] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:34:34.551 IST [33412] LOG:  database system was interrupted; last known up at 2026-01-11 15:29:33 IST
+2026-01-11 15:34:35.258 IST [33412] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-11 15:34:35.262 IST [33412] LOG:  redo starts at 0/1A5A550
+2026-01-11 15:34:35.262 IST [33412] LOG:  invalid record length at 0/1A5A638: expected at least 24, got 0
+2026-01-11 15:34:35.262 IST [33412] LOG:  redo done at 0/1A5A600 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-01-11 15:34:35.266 IST [6464] LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-11 15:34:35.278 IST [6464] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.003 s, total=0.013 s; sync files=2, longest=0.002 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A638, redo lsn=0/1A5A638
+2026-01-11 15:34:35.319 IST [16660] LOG:  database system is ready to accept connections
+2026-01-11 15:34:38.309 IST [46808] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:36:35.132 IST [16660] LOG:  background worker "logical replication launcher" (PID 31080) was terminated by exception 0xC000013A
+2026-01-11 15:36:35.132 IST [16660] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-11 15:36:35.132 IST [16660] LOG:  terminating any other active server processes
+2026-01-11 15:36:35.140 IST [16660] LOG:  received fast shutdown request
+^C2026-01-11 15:36:51.326 IST [43192] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:36:51.333 IST [43192] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:36:51.333 IST [43192] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:36:51.390 IST [31572] LOG:  database system was interrupted; last known up at 2026-01-11 15:34:35 IST
+2026-01-11 15:36:52.071 IST [31572] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-11 15:36:52.075 IST [31572] LOG:  redo starts at 0/1A5A6B0
+2026-01-11 15:36:52.075 IST [31572] LOG:  invalid record length at 0/1A5A6E8: expected at least 24, got 0
+2026-01-11 15:36:52.075 IST [31572] LOG:  redo done at 0/1A5A6B0 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-01-11 15:36:52.077 IST [9564] LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-11 15:36:52.083 IST [9564] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.007 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A6E8, redo lsn=0/1A5A6E8
+2026-01-11 15:36:52.112 IST [43192] LOG:  database system is ready to accept connections
+2026-01-11 15:36:55.256 IST [35888] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:39:35.627 IST [43192] LOG:  background worker "logical replication launcher" (PID 33192) was terminated by exception 0xC000013A
+2026-01-11 15:39:35.627 IST [43192] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-11 15:39:35.627 IST [43192] LOG:  terminating any other active server processes
+2026-01-11 15:39:35.638 IST [43192] LOG:  received fast shutdown request
+^C2026-01-11 15:39:35.867 IST [18724] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:39:35.872 IST [18724] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:39:35.872 IST [18724] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:39:35.938 IST [15236] LOG:  database system was interrupted; last known up at 2026-01-11 15:36:52 IST
+2026-01-11 15:39:36.572 IST [15236] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-11 15:39:36.575 IST [15236] LOG:  redo starts at 0/1A5A760
+2026-01-11 15:39:36.575 IST [15236] LOG:  invalid record length at 0/1A5A798: expected at least 24, got 0
+2026-01-11 15:39:36.575 IST [15236] LOG:  redo done at 0/1A5A760 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-01-11 15:39:36.578 IST [51080] LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-11 15:39:36.586 IST [51080] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.010 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A798, redo lsn=0/1A5A798
+2026-01-11 15:39:36.612 IST [18724] LOG:  database system is ready to accept connections
+2026-01-11 15:40:07.886 IST [18724] LOG:  background worker "logical replication launcher" (PID 26084) was terminated by exception 0xC000013A
+2026-01-11 15:40:07.886 IST [18724] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-11 15:40:07.886 IST [18724] LOG:  terminating any other active server processes
+2026-01-11 15:40:07.903 IST [18724] LOG:  received fast shutdown request
+^C2026-01-11 15:40:10.918 IST [7616] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:40:10.925 IST [7616] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:40:10.926 IST [7616] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:40:10.992 IST [49672] LOG:  database system was interrupted; last known up at 2026-01-11 15:39:36 IST
+2026-01-11 15:40:11.724 IST [49672] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-11 15:40:11.728 IST [49672] LOG:  redo starts at 0/1A5A810
+2026-01-11 15:40:11.728 IST [49672] LOG:  invalid record length at 0/1A5A848: expected at least 24, got 0
+2026-01-11 15:40:11.728 IST [49672] LOG:  redo done at 0/1A5A810 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-01-11 15:40:11.733 IST [8576] LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-11 15:40:11.742 IST [8576] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.011 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A848, redo lsn=0/1A5A848
+2026-01-11 15:40:11.769 IST [7616] LOG:  database system is ready to accept connections
+2026-01-11 15:40:22.056 IST [7616] LOG:  background worker "logical replication launcher" (PID 48580) was terminated by exception 0xC000013A
+2026-01-11 15:40:22.056 IST [7616] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2026-01-11 15:40:22.056 IST [7616] LOG:  terminating any other active server processes
+2026-01-11 15:40:22.065 IST [7616] LOG:  received fast shutdown request
+^C2026-01-11 15:46:12.441 IST [19080] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:46:12.446 IST [19080] LOG:  listening on IPv6 address "::1", port 5412
+2026-01-11 15:46:12.446 IST [19080] LOG:  listening on IPv4 address "127.0.0.1", port 5412
+2026-01-11 15:46:12.496 IST [15788] LOG:  database system was interrupted; last known up at 2026-01-11 15:40:11 IST
+2026-01-11 15:46:12.773 IST [15788] LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-11 15:46:12.776 IST [15788] LOG:  invalid record length at 0/1A5A8C0: expected at least 24, got 0
+2026-01-11 15:46:12.776 IST [15788] LOG:  redo is not required
+2026-01-11 15:46:12.778 IST [48232] LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-11 15:46:12.782 IST [48232] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.002 s, total=0.006 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A8C0, redo lsn=0/1A5A8C0
+2026-01-11 15:46:12.807 IST [19080] LOG:  database system is ready to accept connections
+2026-01-11 15:46:15.174 IST [8] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:46:46.728 IST [46184] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.729 IST [7040] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.729 IST [17132] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.729 IST [52876] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.729 IST [14720] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.730 IST [44512] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.730 IST [8520] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.731 IST [27936] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.731 IST [22356] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.731 IST [21232] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.732 IST [39624] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.731 IST [52592] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.731 IST [43672] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.733 IST [41592] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:46.733 IST [50660] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:46:51.864 IST [19080] LOG:  received fast shutdown request
+2026-01-11 15:46:51.865 IST [19080] LOG:  aborting any active transactions
+2026-01-11 15:46:51.875 IST [19080] LOG:  background worker "logical replication launcher" (PID 10428) exited with exit code 1
+2026-01-11 15:46:51.877 IST [48232] LOG:  shutting down
+2026-01-11 15:46:51.879 IST [48232] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:46:51.884 IST [48232] LOG:  checkpoint complete: wrote 2 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.008 s; sync files=1, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1A5A970, redo lsn=0/1A5A970
+2026-01-11 15:46:51.891 IST [19080] LOG:  database system is shut down
+2026-01-11 15:52:22.685 IST [3316] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:52:22.686 IST [3316] LOG:  listening on IPv6 address "::", port 5412
+2026-01-11 15:52:22.686 IST [3316] LOG:  listening on IPv4 address "0.0.0.0", port 5412
+2026-01-11 15:52:22.733 IST [10632] LOG:  database system was shut down at 2026-01-11 15:46:51 IST
+2026-01-11 15:52:22.763 IST [3316] LOG:  database system is ready to accept connections
+2026-01-11 15:52:25.229 IST [52656] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:52:45.497 IST [18456] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.499 IST [43316] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.499 IST [10840] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.499 IST [12420] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.500 IST [27432] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.502 IST [7040] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.502 IST [7080] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.502 IST [27964] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [40364] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [20720] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [39624] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [17744] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [32128] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [11596] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:45.503 IST [37996] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:52:47.950 IST [3316] LOG:  received fast shutdown request
+2026-01-11 15:52:47.950 IST [3316] LOG:  aborting any active transactions
+2026-01-11 15:52:47.960 IST [3316] LOG:  background worker "logical replication launcher" (PID 51864) exited with exit code 1
+2026-01-11 15:52:47.961 IST [19368] LOG:  shutting down
+2026-01-11 15:52:47.962 IST [19368] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:52:47.966 IST [19368] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.005 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/1A5AA20, redo lsn=0/1A5AA20
+2026-01-11 15:52:47.972 IST [3316] LOG:  database system is shut down
+2026-01-11 15:53:40.968 IST [45428] LOG:  starting PostgreSQL 16.1, compiled by Visual C++ build 1937, 64-bit
+2026-01-11 15:53:40.969 IST [45428] LOG:  listening on IPv6 address "::", port 5412
+2026-01-11 15:53:40.969 IST [45428] LOG:  listening on IPv4 address "0.0.0.0", port 5412
+2026-01-11 15:53:41.009 IST [38900] LOG:  database system was shut down at 2026-01-11 15:52:47 IST
+2026-01-11 15:53:41.037 IST [45428] LOG:  database system is ready to accept connections
+2026-01-11 15:53:44.172 IST [34768] FATAL:  role "Raj Singh" does not exist
+2026-01-11 15:54:24.710 IST [13104] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.710 IST [30936] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.711 IST [40760] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.713 IST [46596] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.714 IST [30828] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.714 IST [20488] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.714 IST [1576] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.714 IST [15648] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [49484] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [20992] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [6232] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [16952] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [30180] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.715 IST [23336] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:24.716 IST [10496] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2026-01-11 15:54:26.520 IST [45428] LOG:  received fast shutdown request
+2026-01-11 15:54:26.520 IST [45428] LOG:  aborting any active transactions
+2026-01-11 15:54:26.533 IST [45428] LOG:  background worker "logical replication launcher" (PID 33844) exited with exit code 1
+2026-01-11 15:54:26.534 IST [46668] LOG:  shutting down
+2026-01-11 15:54:26.535 IST [46668] LOG:  checkpoint starting: shutdown immediate
+2026-01-11 15:54:26.539 IST [46668] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.002 s, sync=0.001 s, total=0.005 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/1A5AAD0, redo lsn=0/1A5AAD0
+2026-01-11 15:54:26.547 IST [45428] LOG:  database system is shut down

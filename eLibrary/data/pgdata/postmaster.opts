@@ -1,0 +1,1 @@
+D:/Buisness/e-Library Project/eLibraryPortableZip/eLibrary/postgresql/bin/postgres.exe "-D" "D:/Buisness/e-Library Project/eLibraryPortableZip/eLibrary/data/pgdata" "-p" "5412" "-F" "-i"
